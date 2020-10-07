@@ -1,0 +1,23 @@
+{
+  "name": "word-games",
+  "version": "1.0.0",
+  "description": "a collection of word games",
+  "main": "app.js",
+  "scripts": {
+    "start:dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikajs37/word-games.git"
+  },
+  "author": "Mika Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikajs37/word-games/issues"
+  },
+  "homepage": "https://github.com/mikajs37/word-games#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
